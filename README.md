@@ -2,6 +2,8 @@
 
 **Population-level statistics over a universe of algorithmic trading strategies.**
 
+> Utility layer for [Sharpe density and population scatter](https://www.daru.finance/projects/strategy-stats) and the rest of the Lab Daniel Gatto publishes on [daru.finance](https://www.daru.finance).
+
 Two reproducible pipelines over a large strategy population:
 
 1. **Sharpe-ratio density** — kernel-density estimate of the mean
