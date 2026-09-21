@@ -42,7 +42,7 @@ To reproduce the per-asset thesis figures, point either script at the data root
 either via `--from-data` or the `STRATEGY_DATA_ROOT` environment variable:
 
 ```bash
-export STRATEGY_DATA_ROOT="$HOME/PhD_Research"   # adjust for your machine
+export STRATEGY_DATA_ROOT=/path/to/strategy-data
 python scripts/sharpe_density.py
 python scripts/param_scatter.py
 ```
